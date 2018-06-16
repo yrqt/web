@@ -1,0 +1,20 @@
+body{
+	font-size: 12px;
+
+}
+.title{
+	text-align: center;
+}
+.divProduct{
+	border: 1px solid black;
+	width:100px;
+	display: inline-block;
+	text-align: center;
+	
+}
+.divProduct img{
+	width:100px;
+}
+.divBtnPanier{
+	background-color: orange;
+}
