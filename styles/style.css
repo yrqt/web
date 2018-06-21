@@ -1,3 +1,12 @@
+
+@font-face {
+	font-family: "dog";
+	src: url(../fonts/dog.ttf);
+}
+#imgdog{
+	font-family: 'dog';
+}
+
 body{
 	font-size: 12px;
 
